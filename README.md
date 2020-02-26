@@ -5,6 +5,7 @@ Course project
 
 This is a web application that acts as a review sharing platform where users are able to review movies that they have experienced and also browse reviews that have been made available by other users. 
 
+This project was completed following agile development methodoligies in a group of myself and 3 of my peers. My main contribution was the development of the web application and all its features.
  
 File Directory:
 
